@@ -1,0 +1,13 @@
+중앙대학교   
+## main page   
+https://www.cau.ac.kr/index.do    
+
+    
+## portal     
+https://mportal.cau.ac.kr/main.do?loginIp=10.77.1.72&_langCode=ko    
+
+## CSE    
+https://cse.cau.ac.kr/main.php    
+
+## my university email address    
+gusthdud527@cau.ac.kr    
